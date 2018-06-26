@@ -4,7 +4,7 @@
 内容简介
 -------
 
-TabMoment是一个chrome浏览器的插件，在chrome浏览器上new一个新的标签页的时候，会展示一个漂亮的背景,在背景里面包含天气以及一个可编辑的todo list
+TabMoment是一个chrome浏览器的插件，在chrome浏览器新的标签页展示一个漂亮的背景,在背景里面包含天气以及一个可编辑的todo list
 
 涉及知识点
 ---------

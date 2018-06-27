@@ -1,5 +1,5 @@
 # TabMoment
-一个浏览器的扩展插件，包含自定义的背景图片+todoList+Weather
+使用React开发chrome浏览器的一个扩展，包含自定义的背景图片+todoList+Weather
 
 内容简介
 -------
